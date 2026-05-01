@@ -8,6 +8,7 @@ Analyze industrial growth trends
 Evaluate energy efficiency
 Assess environmental impact
 Determine sustainability using data-driven metrics
+
 📊 Data
 Source: World Bank
 Scope: Egypt
@@ -18,11 +19,13 @@ Data cleaning
 Handling missing values
 Unpivot transformations
 Structuring for analysis
+
 🧱 Data Model
 Star Schema
 Calendar (Date Dimension)
 Fact Tables (Industry, Energy, CO2, GDP)
 Single-direction relationships
+
 📈 Key Metrics
 Growth (YOY %)
 Energy Intensity
